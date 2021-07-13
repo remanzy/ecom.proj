@@ -1,0 +1,50 @@
+/*.label-text
+{
+    text-align: center;
+    font-family: fantasy; 
+    font-size: 200%; 
+    font-style: italic;
+    display: flex;
+    
+  justify-content: center;
+  align-items: center;
+  background-color: yellow;
+  margin-right: 70%;
+  
+  
+}*/
+.label-text
+{
+    text-align: center;
+    font-family: fantasy; 
+    font-size: 200%; 
+    font-style: italic;
+    display: flex;
+    
+  justify-content: center;
+  align-items: center;
+  background-color: yellow;
+  margin-right: 70%;
+  
+  
+}
+
+
+
+.product__details__option
+{
+    text-align: left;
+    font-size: 80%;
+    
+}
+
+.product__hover
+{
+    text-align: right;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-style:normal;
+    background-color: chartreuse;
+}
+
+
